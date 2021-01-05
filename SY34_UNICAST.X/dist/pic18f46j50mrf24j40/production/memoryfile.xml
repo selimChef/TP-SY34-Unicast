@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/pic18f46j50mrf24j40/production\SY34_Gertaldi.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>65528</length>
+      <used>28631</used>
+      <free>36897</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>3776</length>
+      <used>1028</used>
+      <free>2748</free>
+    </memory>
+  </executable>
+</project>
